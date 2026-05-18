@@ -6,8 +6,8 @@
 set -eu
 
 # -------- EDIT THESE -----------------------------------------------------
-GIT_REPO="https://github.com/<your-handle>/<your-repo>.git"
-SUBFOLDER=""                  # path inside repo; leave empty if app at root
+GIT_REPO="https://github.com/amadiolol/wine.git"
+SUBFOLDER=""                          # leave empty if streamlit_app.py is at repo root
 APP_FILE="streamlit_app.py"
 ENDPOINT_NAME="wine-endpoint"
 # -------------------------------------------------------------------------
