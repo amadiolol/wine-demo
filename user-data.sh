@@ -6,7 +6,7 @@
 set -eu
 
 # -------- EDIT THESE -----------------------------------------------------
-GIT_REPO="https://github.com/amadiolol/wine.git"
+GIT_REPO="https://github.com/amadiolol/wine-demo.git"
 SUBFOLDER=""                          # leave empty if streamlit_app.py is at repo root
 APP_FILE="streamlit_app.py"
 ENDPOINT_NAME="wine-endpoint"
